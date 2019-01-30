@@ -1,0 +1,44 @@
+{
+    "provider": [
+        {
+            "id": 0,
+            "name": "AtlantiCare",
+            "hospital": "AtlantiCare Medical Center",
+            "location": "Atlantic City, NJ",
+            "image_url": "image/logos/atlanticare.jpg",
+            "selected": true
+        },
+        {
+            "id": 1,
+            "name": "Tower Health",
+            "hospital": "Reading Hospital",
+            "location": "West Reading, PA",
+            "image_url": "image/logos/tower_health.jpg",
+            "selected": true
+        },
+        {
+            "id": 2,
+            "name": "Geisinger Health System",
+            "hospital": "Geisinger Bloomsburg Hospital",
+            "location": "Bloomsburg, PA",
+            "image_url": "image/logos/geisinger_caring.jpg",
+            "selected": true
+        },
+        {
+            "id": 3,
+            "name": "Christiana Care Health System",
+            "hospital": "",
+            "location": "Wilmington, DE",
+            "image_url": "image/logos/christiana_care.jpg",
+            "selected": true
+        }
+    ],
+    "ui": {
+        "currentPage": 1,
+        "textBlocks": {
+            "providerBlock1": "We’ve found your health information at the following organizations. Please double check that you’ve visited each organization before proceeding.", 
+            "confirmationBlock1": "Thanks for confirming where you've received care.",
+            "confirmationBlock2": "Do you agree to have your records sent to Mr. Life Insurer to process your application?"
+        }
+    }
+}
