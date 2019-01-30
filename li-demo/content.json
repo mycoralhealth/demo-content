@@ -38,7 +38,9 @@
         "textBlocks": {
             "providerBlock1": "We’ve found your health records at the following organizations. Please double check that you’ve visited each organization before proceeding.", 
             "confirmationBlock1": "Thanks for confirming where you've received care.",
-            "confirmationBlock2": "Do you agree to have your records sent to Mr. Life Insurer to process your application?"
+            "confirmationBlock2": "Do you agree to have your records sent to Mass Mutual to process your application?",
+            "successBlock1": "Thank you for sending your records. We will contact you as soon as the application is processed.",
+            "successBlock2": ""
         }
     }
 }
