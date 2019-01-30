@@ -41,6 +41,9 @@
             "confirmationBlock2": "Do you agree to have your records sent to Mass Mutual to process your application?",
             "successBlock1": "Thank you for sending your records. We will contact you as soon as the application is processed.",
             "successBlock2": ""
+        },
+        "errorMsgs": {
+            "confirmation1": "You must agree in order to submit records."
         }
     }
 }
