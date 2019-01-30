@@ -34,7 +34,7 @@
         }
     ],
     "ui": {
-        "currentPage": 4,
+        "currentPage": 4, 
         "textBlocks": {
             "providerBlock1": "We’ve found your health records at the following organizations. Please double check that you’ve visited each organization before proceeding.", 
             "confirmationBlock1": "Thanks for confirming where you've received care.",
