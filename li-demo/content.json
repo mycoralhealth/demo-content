@@ -52,12 +52,12 @@
         "last": "Galebach",
         "dob": "7/24/1987",
         "ssn": "212-678-1559",
-        "email": "tim@coral.health",
+        "email": "tim@demo.com",
         "phone": "867-867-5309",
-        "address1": "301 Bowie St",
-        "address2": "Apt 3202",
+        "address1": "5th St",
+        "address2": "Apt 291",
         "city": "Austin",
         "state": "TX",
-        "zip": "78703"
+        "zip": "78707"
     }
 }
