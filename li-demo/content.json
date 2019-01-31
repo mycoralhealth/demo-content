@@ -46,5 +46,18 @@
         "errorMsgs": {
             "confirmation1": "You must agree in order to submit records."
         }
+    },
+    "user": {
+        "first": "Timothy",
+        "last": "Galebach",
+        "dob": "7/24/1987",
+        "ssn": "212-678-1559",
+        "email": "tim@coral.health",
+        "phone": "424-339-2910",
+        "address1": "301 Bowie St",
+        "address2": "Apt 3202",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78703"
     }
 }
