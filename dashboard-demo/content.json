@@ -1,1 +1,85 @@
-{}
+{
+  "user": [],
+  "campaign": [
+    {
+      "id": 1,
+      "name": "MA Quality Improvement",
+      "clients": [
+        {
+          "sex": 1,
+          "age": 27,
+          "city": "Andover",
+          "state": "MA",
+          "sourcesConnected": 2,
+          "sourcesTotal": 5
+        },
+        {
+          "sex": 2,
+          "age": 29,
+          "city": "Ashburnham",
+          "state": "MA",
+          "sourcesConnected": 1,
+          "sourcesTotal": 4
+        },
+        {
+          "sex": 2,
+          "age": 33,
+          "city": "Woburn",
+          "state": "MA",
+          "sourcesConnected": 0,
+          "sourcesTotal": 6
+        },
+        {
+          "sex": 2,
+          "age": 39,
+          "city": "Malden",
+          "state": "MA",
+          "sourcesConnected": 4,
+          "sourcesTotal": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ACA Risk Adjustment",
+      "clients": [
+        {
+          "sex": 2,
+          "age": 23,
+          "city": "Quincy",
+          "state": "MA",
+          "sourcesConnected": 3,
+          "sourcesTotal": 4
+        },
+        {
+          "sex": 1,
+          "age": 25,
+          "city": "Duxbury",
+          "state": "MA",
+          "sourcesConnected": 2,
+          "sourcesTotal": 4
+        },
+        {
+          "sex": 2,
+          "age": 31,
+          "city": "Burlington",
+          "state": "MA",
+          "sourcesConnected": 1,
+          "sourcesTotal": 3
+        },
+        {
+          "sex": 1,
+          "age": 35,
+          "city": "Reading",
+          "state": "MA",
+          "sourcesConnected": 2,
+          "sourcesTotal": 7
+        }
+      ]
+    }
+  ],
+
+  "ui": {
+    "currentPage": 1
+  }
+}
