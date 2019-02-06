@@ -36,12 +36,12 @@
     "ui": {
         "currentPage": 4, 
         "textBlocks": {
-            "providerBlock1": "We’ve found your health records at the following organizations. Please double check that you’ve visited each organization before proceeding.", 
+            "providerBlock1": "We’ve found your medical records at the following places. If you don't recognize a location, please unselect it.", 
             "confirmationBlock1": "Thanks for confirming where you've received care.",
-            "confirmationBlock2": "Do you agree to have your records sent to Mass Mutual to process your application?",
+            "confirmationBlock2": "Do you agree to have your records sent to USAA to process your application?",
             "successBlock1": "Thank you for sending your records. We will contact you as soon as the application is processed.",
             "successBlock2": "",
-            "userData1": "Please answer a few questions so we can find where your medical records are located."
+            "userData1": "Please answer a few questions so we can find your medical records."
         },
         "errorMsgs": {
             "confirmation1": "You must agree in order to submit records."
