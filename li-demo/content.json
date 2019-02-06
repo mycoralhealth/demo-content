@@ -38,10 +38,12 @@
         "textBlocks": {
             "providerBlock1": "We’ve found your medical records at the following places. If you don't recognize a location, please unselect it.", 
             "confirmationBlock1": "Thanks for confirming where you've received care.",
-            "confirmationBlock2": "Do you agree to have your records sent to USAA to process your application?",
+            "confirmationBlock2": "Do you agree to have your records sent to",
+            "confirmationBlock3": "to process your application?",
             "successBlock1": "Thank you for sending your records. We will contact you as soon as the application is processed.",
             "successBlock2": "",
-            "userData1": "Please answer a few questions so we can find your medical records."
+            "userData1": "Please answer a few questions so we can find your medical records.",
+            "clientName": "Life Insurer"
         },
         "errorMsgs": {
             "confirmation1": "You must agree in order to submit records."
