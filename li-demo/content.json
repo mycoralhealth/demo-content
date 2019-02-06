@@ -30,7 +30,7 @@
             "hospital": "",
             "location": "Wilmington, DE",
             "image_url": "image/logos/christiana_care.jpg",
-            "selected": true
+            "selected": false
         }
     ],
     "ui": {
